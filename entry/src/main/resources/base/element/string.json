@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Main"
+    },
+    {
+      "name": "WebPageAbility_desc",
+      "value": "Webpage"
+    },
+    {
+      "name": "FruitDetailAbility_desc",
+      "value": "Fruit Detail"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Main"
+    }
+  ]
+}
